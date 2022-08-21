@@ -1,0 +1,122 @@
+{
+  "pets": [
+    {
+      "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+      "name": "Nairobi",
+      "type": "Dog",
+      "breed": "Husky",
+      "owner": "12a410bc-849f-4e7e-bfc8-4ef283ee4b19",
+      "info": [
+        "Cataracts"
+      ],
+      "createdAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "8/19/2022, 8:51:31 PM"
+    },
+    {
+      "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "name": "Lucky",
+      "type": "Dog",
+      "breed": "German Shephard",
+      "owner": "2b9130d4-47a7-4085-800e-0144f6a46059",
+      "info": [
+        "Hip Dysplasia"
+      ],
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM"
+    },
+    {
+      "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "name": "Inu",
+      "type": "Cat",
+      "breed": "Siamese",
+      "owner": "11817fb1-03a1-4b4a-8d27-854ac893cf41",
+      "info": [
+        "Arthritis",
+        "Obese"
+      ],
+      "createdAt": "11/20/2021, 5:39:07 PM",
+      "updatedAt": "11/20/2021, 5:39:07 PM"
+    }
+  ],
+  "owners": [
+    {
+      "id": "12a410bc-849f-4e7e-bfc8-4ef283ee4b19",
+      "pet": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+      "name": "Jason Miller",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": "2b9130d4-47a7-4085-800e-0144f6a46059",
+      "pet": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "name": "Tiffany Brookston",
+      "phone": "098-765-4321"
+    },
+    {
+      "id": "11817fb1-03a1-4b4a-8d27-854ac893cf41",
+      "pet": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "name": "Catrin Stevenson",
+      "phone": "235-264-8536"
+    }
+  ],
+  "webLogin": [
+    {
+      "id": "12a410bc-849f-4e7e-bfc8-4ef283ee4b19",
+      "role": "user",
+      "email": "jason@mail.com",
+      "password": "user1"
+    },
+    {
+      "id": "2b9130d4-47a7-4085-800e-0144f6a46059",
+      "role": "user",
+      "email": "tiffy@mail.com",
+      "password": "user2"
+    },
+    {
+      "id": "11817fb1-03a1-4b4a-8d27-854ac893cf41",
+      "role": "user",
+      "email": "catrin@mail.com",
+      "password": "user3"
+    },
+    {
+      "id": "84e54f9a-2001-11ed-861d-0242ac120002",
+      "role": "admin",
+      "email": "Rusan@mail.com",
+      "password": "admin1"
+    },
+    {
+      "id": "8f0a5ca4-2001-11ed-861d-0242ac120002",
+      "role": "staff",
+      "email": "Gesir@mail.com",
+      "password": "staff1"
+    },
+    {
+      "id": "93aca0be-2001-11ed-861d-0242ac120002",
+      "role": "staff",
+      "email": "Menzec@mail.com",
+      "password": "staff2"
+    }
+  ],
+  "employees": [
+    {
+      "id": "84e54f9a-2001-11ed-861d-0242ac120002",
+      "role": "admin",
+      "name": "Rusan Rhassi",
+      "address": "401 Young Street Saint Albans, NY 11412",
+      "phone": "315-409-9257"
+    },
+    {
+      "id": "8f0a5ca4-2001-11ed-861d-0242ac120002",
+      "role": "staff",
+      "name": "Gesir Rez",
+      "address": "8701 Sleepy Hollow Court Rego Park, NY 11374",
+      "phone": "315-546-0663"
+    },
+    {
+      "id": "93aca0be-2001-11ed-861d-0242ac120002",
+      "role": "staff",
+      "name": "Menzec Novzirgo",
+      "address": "5 Glendale St. Brooklyn, NY 11203",
+      "phone": "315-622-4144"
+    }
+  ]
+}
