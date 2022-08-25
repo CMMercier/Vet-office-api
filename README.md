@@ -1,4 +1,6 @@
 # Vet-office-api
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCMMercier%2FVet-office-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCMMercier%2FVet-office-api?ref=badge_shield)
+
   My personal project to build an API using Node.js and Express. The "database" is currently a simple JSON file to test functionality, not for practical use and its values are mostly taken from random generators found online (Contains no real people or pet info). 
 
 Experience:
@@ -66,3 +68,7 @@ Still a work in progress.
 
 Use Postman
 - Obtain JWT token from /login and use header Authorization Bearer for all API requests.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCMMercier%2FVet-office-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCMMercier%2FVet-office-api?ref=badge_large)
