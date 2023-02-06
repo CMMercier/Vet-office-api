@@ -18,7 +18,7 @@
     "jsonwebtoken": "^9.0.0",
     "koa-jwt": "^4.0.3",
     "nodemon": "^2.0.20",
-    "swagger-jsdoc": "^6.2.5",
+    "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^4.6.0",
     "uuid": "^8.3.2"
   }
